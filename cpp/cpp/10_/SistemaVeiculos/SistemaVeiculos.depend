@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1626392538 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\main.cpp
+	<iostream>
+	"SistemaRevendedora.h"
+
+1626389622 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\src\veiculo.cpp
+	"Veiculo.h"
+
+1626389601 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\include\veiculo.h
+	<string>
+	<iostream>
+
+1626390251 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\src\automovel.cpp
+	"Automovel.h"
+
+1626390251 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\include\automovel.h
+	"Veiculo.h"
+
+1626391266 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\src\caminhao.cpp
+	"Caminhao.h"
+
+1626391005 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\include\caminhao.h
+	"Veiculo.h"
+
+1626391552 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\src\motocicleta.cpp
+	"Motocicleta.h"
+
+1626391552 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\include\motocicleta.h
+	"Veiculo.h"
+
+1626401724 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\include\sistemarevendedora.h
+	<vector>
+	"Automovel.h"
+	"Caminhao.h"
+	"Motocicleta.h"
+
+1626392622 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\sistemaveiculos\src\sistemarevendedora.cpp
+	"SistemaRevendedora.h"
+

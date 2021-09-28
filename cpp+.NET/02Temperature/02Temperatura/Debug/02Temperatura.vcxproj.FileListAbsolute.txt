@@ -1,0 +1,3 @@
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\02Temperatura\02Temperatura\Debug\02Temperatura.vcxproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\02Temperatura\02Temperatura\Debug\My02Temperatura.JanelaPrincipal.resources
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\02Temperatura\02Temperatura\Debug\02Temperatura.vcxproj.GenerateResource.cache

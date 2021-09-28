@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1627298653 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_03\main.cpp
+	<iostream>
+	"SistemaVeiculos.h"
+
+1627309009 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_03\src\sistemaveiculos.cpp
+	"SistemaVeiculos.h"
+
+1627308081 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_03\include\sistemaveiculos.h
+	<iostream>
+	<string>
+	<vector>
+	"Veiculo.h"
+	"Proprietario.h"
+
+1627309103 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_03\src\veiculo.cpp
+	"Veiculo.h"
+
+1627309103 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_03\include\veiculo.h
+	<string>
+	<iostream>
+	"Proprietario.h"
+
+1627308081 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_03\src\proprietario.cpp
+	"Proprietario.h"
+
+1627308081 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_03\include\proprietario.h
+	<iostream>
+	<string>
+

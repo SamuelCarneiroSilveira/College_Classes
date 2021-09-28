@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1626265917 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 03\exemploherança\main.cpp
+	<iostream>
+	<Cliente.h>
+
+1626265422 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 03\exemploherança\src\pessoa.cpp
+	"Pessoa.h"
+
+1626265857 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 03\exemploherança\include\pessoa.h
+	<string>
+	<iostream>
+
+1626265857 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 03\exemploherança\src\cliente.cpp
+	"Cliente.h"
+
+1626265857 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 03\exemploherança\include\cliente.h
+	<Pessoa.h>
+

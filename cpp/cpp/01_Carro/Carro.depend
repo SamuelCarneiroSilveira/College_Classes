@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1625228951 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 01\carro\src\carro.cpp
+	"Carro.h"
+
+1625228995 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 01\carro\include\carro.h
+	<string>
+	<iostream>
+
+1625229719 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 01\carro\main.cpp
+	<iostream>
+	<Carro.h>
+

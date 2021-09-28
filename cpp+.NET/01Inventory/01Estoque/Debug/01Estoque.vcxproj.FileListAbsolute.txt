@@ -1,0 +1,3 @@
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\01Estoque\01Estoque\Debug\01Estoque.vcxproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\01Estoque\01Estoque\Debug\My01Estoque.Estoque.resources
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\01Estoque\01Estoque\Debug\01Estoque.vcxproj.GenerateResource.cache

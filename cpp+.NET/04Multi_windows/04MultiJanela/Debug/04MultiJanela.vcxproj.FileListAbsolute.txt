@@ -1,0 +1,6 @@
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\04MultiJanela\04MultiJanela\Debug\04MultiJanela.vcxproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\04MultiJanela\04MultiJanela\Debug\My04MultiJanela.janelaMae.resources
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\04MultiJanela\04MultiJanela\Debug\04MultiJanela.vcxproj.GenerateResource.cache
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\04MultiJanela\04MultiJanela\Debug\My04MultiJanela.cadastro.resources
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\04MultiJanela\04MultiJanela\Debug\My04MultiJanela.regressiva.resources
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\04MultiJanela\04MultiJanela\Debug\04MultiJanela.vcxproj.CopyComplete

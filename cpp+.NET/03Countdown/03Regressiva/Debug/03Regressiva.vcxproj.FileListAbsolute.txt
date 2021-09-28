@@ -1,0 +1,3 @@
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\03Regressiva\03Regressiva\Debug\03Regressiva.vcxproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\03Regressiva\03Regressiva\Debug\My03Regressiva.Regressiva.resources
+C:\Users\Ana\Desktop\samuel\Programação_3\Avaliação II Correção\Rec2_SamuelSilveira\03Regressiva\03Regressiva\Debug\03Regressiva.vcxproj.GenerateResource.cache

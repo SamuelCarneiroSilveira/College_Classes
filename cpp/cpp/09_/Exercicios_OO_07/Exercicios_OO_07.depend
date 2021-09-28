@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1622567048 source:d:\sand box\exercicios_oo_07\main.cpp
+	<iostream>
+	<SistemaBancario.h>
+
+1622567592 source:d:\sand box\exercicios_oo_07\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1622567594 d:\sand box\exercicios_oo_07\include\contacorrente.h
+	<iostream>
+
+1622569104 source:d:\sand box\exercicios_oo_07\src\sistemabancario.cpp
+	"SistemaBancario.h"
+
+1622569104 d:\sand box\exercicios_oo_07\include\sistemabancario.h
+	<ContaCorrente.h>
+	<vector>
+	<iostream>
+
+1622567048 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\exercicios_oo_07\main.cpp
+	<iostream>
+	<SistemaBancario.h>
+
+1626978881 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\exercicios_oo_07\include\sistemabancario.h
+	<vector>
+	<string>
+	<iostream>
+	<ContaCorrente.h>
+	"Cliente.h"
+
+1626743114 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\exercicios_oo_07\include\contacorrente.h
+	"Cliente.h"
+	<iostream>
+	<string>
+
+1626747770 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\exercicios_oo_07\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1626979845 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\exercicios_oo_07\src\sistemabancario.cpp
+	"SistemaBancario.h"
+
+1626554505 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\exercicios_oo_07\src\cliente.cpp
+	"Cliente.h"
+
+1626738933 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 04\exercicios_oo_07\include\cliente.h
+	<iostream>
+	<string>
+

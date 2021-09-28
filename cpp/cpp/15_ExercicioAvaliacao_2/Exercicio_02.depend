@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1627254534 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_02\main.cpp
+	<iostream>
+	"SistemaRetangulo.h"
+
+1627255575 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_02\include\sistemaretangulo.h
+	"Retangulo.h"
+	<vector>
+	<string>
+	<iostream>
+
+1627255575 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_02\include\retangulo.h
+	<iostream>
+	<string>
+
+1627255126 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_02\src\retangulo.cpp
+	"Retangulo.h"
+
+1627255575 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\recuperação 01\exercicio_02\src\sistemaretangulo.cpp
+	"SistemaRetangulo.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1627161129 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 05_aula_pre_prova\exercicocopadicionais01\main.cpp
+	<iostream>
+	"Ponto2D.h"
+
+1627161162 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 05_aula_pre_prova\exercicocopadicionais01\include\ponto2d.h
+	<math.h>
+
+1627161126 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 05_aula_pre_prova\exercicocopadicionais01\src\ponto2d.cpp
+	"Ponto2D.h"
+

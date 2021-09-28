@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1625654472 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 01\06_carro_vetor\02carro_vector\main.cpp
+	<iostream>
+	<Carro.h>
+	<SistemaAutomoveis.h>
+
+1625655100 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 01\06_carro_vetor\02carro_vector\include\carro.h
+	<string>
+	<iostream>
+
+1625654463 d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 01\06_carro_vetor\02carro_vector\include\sistemaautomoveis.h
+	<iostream>
+	<Carro.h>
+	<vector>
+
+1625655100 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 01\06_carro_vetor\02carro_vector\src\carro.cpp
+	"Carro.h"
+
+1625655100 source:d:\documentos\ifsc\semestre atual, 2021-1\prog 3\ex aula 01\06_carro_vetor\02carro_vector\src\sistemaautomoveis.cpp
+	"SistemaAutomoveis.h"
+
